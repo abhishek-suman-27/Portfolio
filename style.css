@@ -306,6 +306,11 @@ span{
     margin: .3remrem 0 1rem;
 }
 
+.portfolio-container a{
+    text-decoration: none;
+    color: white;
+}
+
 .portfolio-layer a{
     display: inline-block;
     justify-content: center;
