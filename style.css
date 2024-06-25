@@ -203,7 +203,7 @@ span{
     margin: 2rem 0 3rem;
 }
 
-.services h2{
+.education h2{
     margin-bottom: 5rem;
 }
 
@@ -230,13 +230,19 @@ span{
     transform: scale(1.02);
 }
 
-.services-box i{
-    font-size: 7rem;
-    color: var(--main-color);
+.services-box img{
+    width: 12rem;
+    margin-bottom: 1rem;
 }
 
 .services-box h3{
-    font-size: 2.6rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+.services-box h4{
+    margin-top: 1rem;
+    font-size: 1.6rem;
 }
 
 .services-box p{
@@ -260,7 +266,8 @@ span{
     text-decoration: underline;
     text-underline-offset: 10px;
     text-decoration-thickness: 5px;
-    font-size: 30px;
+    font-size: 25px;
+    margin-bottom: 3rem;
 }
 
 .bar{
@@ -721,7 +728,7 @@ span{
         padding: 10rem 3%;
     }
 
-    .services{
+    .education{
         padding: 7rem;
     }
 
@@ -795,7 +802,7 @@ span{
         margin-bottom: 4rem;
     }
 
-    .services h2{
+    .education h2{
         margin-bottom: 3rem;
     }
 
